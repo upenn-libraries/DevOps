@@ -8,4 +8,4 @@
 * [Bibhistory](bibhistory.md)
 
 ## Resources
-* [Docker Template on Confluence](https://confluence.library.upenn.edu/display/LTBPG/Docker+Survey+Template)
+* [Docker Template on Confluence](Docker_Template_Survey.md)

@@ -1,6 +1,6 @@
 # README for `docker-best-practices`
 
-This repository contains documentation on best practices for Docker images and deployments.  It is maintained by the [BPG DevOps working group](https://confluence.library.upenn.edu/display/LTBPG/DevOps+Working+Group) (currently a link to confluence, to be updated).
+This repository contains documentation on best practices for Docker images and deployments.  It is maintained by the [BPG DevOps working group](https://github.com/upenn-libraries/DevOps) **(currently a link to the top-level page for this repo, possibly needs updating)**.
 
 ## Table of contents
 in alphabetical order

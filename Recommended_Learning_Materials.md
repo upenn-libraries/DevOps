@@ -11,6 +11,7 @@ Members of the DevOps group have expressed a desire for a holding area for recom
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 * [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
+* [Database Reliability Engineering: Designing and Operating Resilient Database Systems](https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949)
 * [Continuous Delivery with Docker and Jenkins](https://www.amazon.com/Continuous-Delivery-Docker-Jenkins-Delivering-ebook/dp/B0756FCZQY)
 
 ## Journals

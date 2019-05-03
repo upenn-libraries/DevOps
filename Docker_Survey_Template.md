@@ -2,7 +2,7 @@
 Template for surveying existing Dockerized applications as of 8/3/17.  The goal of these documents is to collect information about patterns emerging in use of Docker for deployments, in order to develop recommendations for best practices in retooling existing applications/deploying new ones.
 
 ## Links
-* https://github.com/upenn-libraries/DevOps/tree/gitlab-updates/dockerized-deployments
+* [Dockerized Deployments](dockerized-deployments)
 
 ## Custom Docker Images Listing
 Below is a preliminary list of known applications/scripts that have custom Docker images.

@@ -8,4 +8,4 @@
 * [Bibhistory](bibhistory.md)
 
 ## Resources
-* [Docker Template on Confluence](../Docker_Template_Survey.md)
+* [Docker Template on Confluence](../Docker_Survey_Template.md)

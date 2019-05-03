@@ -5,6 +5,7 @@
 * [Marmite](marmite.md)
 * [Omeka Classic](omeka_classic.md)
 * [Solr5 Dev](solr5_dev.md)
+* [Bibhistory](bibhistory.md)
 
 ## Resources
 * [Docker Template on Confluence](https://confluence.library.upenn.edu/display/LTBPG/Docker+Survey+Template)

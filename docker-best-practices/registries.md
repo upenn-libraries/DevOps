@@ -10,7 +10,7 @@ Whenever possible, create a Docker image of your application and push it to a re
 
 LTS's preferred Registry is [quay.io](https://quay.io/organization/upennlibraries), which is free for public registries. LTS does not have an account for private registries on Quay.
 
-LTS also provides a [private registry](https://tuka.library.upenn.int) for applications that for some reason cannot or should not be hosted on Quay, but its use is strongly discouraged unless absolutely necessary.
+LTS also provides a [private registry](https://tuka.library.upenn.int) (only available internally) for applications that for some reason cannot or should not be hosted on Quay, but its use is strongly discouraged unless absolutely necessary.
 
 If you're not sure which registry to use or how to prepare an image for a public registry, first, read the other Docker best practices documents, especially those mentioned below, and then consult with an LTS engineer.
 
